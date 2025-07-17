@@ -7,6 +7,3 @@ theme:
   icon:
     previous: fontawesome/solid/angle-left
     next: fontawesome/solid/angle-right
-
-plugins:
-  - social

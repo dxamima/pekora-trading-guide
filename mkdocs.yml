@@ -2,5 +2,5 @@ site_name: David's Pekora Trading Guide
 repo_url: https://github.com/dxamima/pekora-trading-guide
 theme:
   name: material
-  favicon: site/img/favicon.ico
-  logo: site/img/logo.png
+  favicon: assets/favicon.ico
+  logo: assets/logo.png
